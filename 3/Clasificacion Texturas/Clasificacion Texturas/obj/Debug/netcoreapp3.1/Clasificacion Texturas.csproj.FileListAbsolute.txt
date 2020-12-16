@@ -1,0 +1,15 @@
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\bin\Debug\netcoreapp3.1\Clasificacion Texturas.exe
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\bin\Debug\netcoreapp3.1\Clasificacion Texturas.deps.json
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\bin\Debug\netcoreapp3.1\Clasificacion Texturas.runtimeconfig.json
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\bin\Debug\netcoreapp3.1\Clasificacion Texturas.runtimeconfig.dev.json
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\bin\Debug\netcoreapp3.1\Clasificacion Texturas.dll
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\bin\Debug\netcoreapp3.1\Clasificacion Texturas.pdb
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\obj\Debug\netcoreapp3.1\Clasificacion Texturas.csprojAssemblyReference.cache
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\obj\Debug\netcoreapp3.1\Clasificacion_Texturas.Form1.resources
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\obj\Debug\netcoreapp3.1\Clasificacion Texturas.csproj.GenerateResource.cache
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\obj\Debug\netcoreapp3.1\Clasificacion Texturas.AssemblyInfoInputs.cache
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\obj\Debug\netcoreapp3.1\Clasificacion Texturas.AssemblyInfo.cs
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\obj\Debug\netcoreapp3.1\Clasificacion Texturas.csproj.CoreCompileInputs.cache
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\obj\Debug\netcoreapp3.1\Clasificacion Texturas.dll
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\obj\Debug\netcoreapp3.1\Clasificacion Texturas.pdb
+C:\Users\Roger\source\repos\Clasificacion Texturas\Clasificacion Texturas\obj\Debug\netcoreapp3.1\Clasificacion Texturas.genruntimeconfig.cache
